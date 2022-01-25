@@ -1,0 +1,3 @@
+include:
+  - project: 'kgoossens-group/customers/jet/amazon-eks-management'
+    file: '/templates/AutoDevOps.pull.gitlab-ci.yml'
